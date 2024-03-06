@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 :root{
     --cor-fundo: #00034A;
     --cor-fundo: #3D96C6;
@@ -18,4 +22,5 @@
 .item-lista-cabecalho{
     display: inline-block;
     margin: 0 16px;
+    font-size: 24px;
 }
